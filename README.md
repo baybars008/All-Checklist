@@ -6,6 +6,6 @@ This area will contain <b>checklists</b> that I think might be useful during the
 
 Checklist Name
 | --- |
-[**<ul><li> "API" </li></ul>**](/Months/January/API.md)
+[**<li> "API" </li>**](/Months/January/API.md)
 
 </details>
